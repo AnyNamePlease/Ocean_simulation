@@ -17,28 +17,6 @@ On each time step (tick), all living organisms update their state:
 - Reproduction  
 - Death from hunger or old age  
 
-## 📁 Project Structure
-OceanSimulation/
-├── README.md
-├── CMakeLists.txt
-├── src/
-│   ├── main.cpp
-│   ├── entity.hpp
-│   ├── entity.cpp
-│   ├── ocean.hpp
-│   ├── ocean.cpp
-│   ├── algae.hpp
-│   ├── algae.cpp
-│   ├── herbivore.hpp
-│   ├── herbivore.cpp
-│   ├── predator.hpp
-│   ├── predator.cpp
-│   ├── sand.hpp
-│   ├── sand.cpp
-│   └── utils/
-│       └── grid.hpp
-
-
 ## 🔧 Requirements
 
 - C++17
