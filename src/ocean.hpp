@@ -12,7 +12,7 @@ public:
     Ocean(size_t width, size_t height);
     ~Ocean();
 
-    // Удаление копирования (Rule of Five)
+    // Удаление копирования
     Ocean(const Ocean&) = delete;
     Ocean& operator=(const Ocean&) = delete;
 
