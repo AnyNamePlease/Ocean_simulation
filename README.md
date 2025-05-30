@@ -2,6 +2,8 @@
 
 A simple simulation of an oceanic ecosystem written in C++. It models the behavior of algae, herbivorous and predatory fish in a 2D grid. The project uses key concepts of modern C++: OOP, templates, smart pointers, exceptions, RAII, Rule of Five, and Pimpl idiom.
 
+![Gameplay Screenshot](Screenshot 2025-05-30 at 09.22.35.png)
+
 ## 🧩 Description
 
 The project simulates an ocean environment with the following entities:
